@@ -1,9 +1,8 @@
+import tea from "./tea"
+
 function App() {
   return (
-    <div>
-      <h1>Hello john </h1>
-      <p>Welcome to your first Vite + React project!</p>
-    </div>
+    <h1>let do react!!!</h1>
   )
 }
 
