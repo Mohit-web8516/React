@@ -1,4 +1,4 @@
-import tea from "./tea"
+
 
 function App() {
   return (
