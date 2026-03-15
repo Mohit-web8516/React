@@ -1,8 +1,8 @@
-
+import Viral from "./viral"
 
 function App() {
   return (
-    <h1>let do react!!!</h1>
+    <Viral />
   )
 }
 
