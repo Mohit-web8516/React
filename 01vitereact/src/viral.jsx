@@ -4,4 +4,4 @@ function  Viral() {
     )
 }
 
-export default Viral
+export default Viral 
